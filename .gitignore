@@ -1,0 +1,44 @@
+# Dataset files
+*.npz
+*.npy
+
+# Model files
+Models/*.h5
+Models/*.pkl
+*.h5
+*.pkl
+
+# Generated outputs
+output.png
+output/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
